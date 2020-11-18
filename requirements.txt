@@ -1,0 +1,2 @@
+finance-dl~=1.3.2
+chromedriver-binary~=86.0.4240.22.0  # change to match your Chrome version in About
