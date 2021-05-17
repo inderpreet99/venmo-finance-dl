@@ -1,3 +1,4 @@
-finance-dl~=1.3.2
-chromedriver-binary~=86.0.4240.22.0  # change to match your Chrome version in About
+git+https://github.com/jbms/finance-dl.git
+chromedriver-binary~=90.0.4430.24.0
+chromedriver-binary-auto
 keyring==21.5.0
