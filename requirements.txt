@@ -1,4 +1,4 @@
 git+https://github.com/jbms/finance-dl.git
-chromedriver-binary~=90.0.4430.24.0
+chromedriver-binary
 chromedriver-binary-auto
 keyring==21.5.0
