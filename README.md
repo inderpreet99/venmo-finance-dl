@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-finance-dl --config-module finance_dl_config --config venmo
+venv/bin/finance-dl --config-module finance_dl_config --config venmo
 ```
